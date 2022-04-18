@@ -10,6 +10,6 @@ class OwnersForm(FlaskForm):
 
 class ShoesForm(FlaskForm):
     shoe_name = StringField('Shoe name', validators=[DataRequired(), Length(max=40)])
-    shoe_size = IntegerField('Shoe size',validators=[DataRequired()])
+    shoe_size = StringField('Shoe size',validators=[DataRequired(), Length(max=20)])
     shoe_colour = StringField('Shoe colour', validators=[Length(max=20)])
     submit = SubmitField("Add shoe") 
