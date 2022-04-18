@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+
+
+{% block body %}
+<form method="POST" action="">
+    {{ form.hidden_tag() }}
+    {{ form.shoe_name.label }}: {{form.shoe_name}}
+    {{ form.shoe_size.label }}: {{form.shoe_size}}
+    {{ form.shoe_colour.label }}: {{form.shoe_colour}}
+    {{ form.submit }}
+
+</form>
+
+{% endblock body %}
