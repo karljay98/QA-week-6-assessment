@@ -7,7 +7,10 @@
 <p>
     first_name: {{owner.first_name}}<br>
     last_name: {{owner.last_name}}<br>
-    id: {{owner.id}}
+    id: {{owner.id}}<br>
+    description: {{owner.description}}
+    <a href="{{ url_for('delete_owner', id=owner.id) }}">Delete</a>
 </p>
 {% endfor %}
+
 {% endblock body %}

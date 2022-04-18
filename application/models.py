@@ -4,6 +4,7 @@ class Owners(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     first_name = db.Column(db.String(50), nullable=False)
     last_name = db.Column(db.String(70), nullable=False)
+    description = db.Column(db.String(100), nullable= False)
     shoes = db.relationship('Shoes', backref='owner')
 
 class Shoes(db.Model):
