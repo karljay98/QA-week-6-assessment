@@ -1,6 +1,6 @@
 from application import app, db
 from application.forms import OwnersForm, ShoesForm
-from application.models import owners, Shoes
+from application.models import Owners, Shoes
 from flask import render_template, request, redirect, url_for
 
 
