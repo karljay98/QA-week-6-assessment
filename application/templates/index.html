@@ -1,0 +1,14 @@
+{% extends layout.html %}
+
+{% block body %}
+<h2> Here are all the shoe owners </h2>
+
+{% for owners in all_owners %}
+
+<p>
+    first_name: {{ owners.first_name }}<br>
+    last_name: {{ owners.last_name }}<br>
+</p>
+
+{% endfor %}
+{% endblock body %}

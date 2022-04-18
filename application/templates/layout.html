@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<head>
+    <title> Welcome to the Owners page </title>
+</head>
+
+<body> 
+    <navbar> 
+        <a href="{{url_for('index')}}">"Home"</a> <a href="{{url_for('owners')}}">"Owners"</a> <a href="{{url_for('shoes')}}">"Shoes"</a>
+    </navbar>
+
+    <h1> List of Owners </h1>
+
+    {% block body %}
+    {% endblock body %}
+
+
+
+</body>
