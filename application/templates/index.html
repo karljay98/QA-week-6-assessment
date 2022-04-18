@@ -2,5 +2,12 @@
 
 {% block body %}
 <h2> Here are all the shoe owners: </h2>
+{% for owner in all_owners %}
 
+<p>
+    first_name: {{owner.first_name}}<br>
+    last_name: {{owner.last_name}}<br>
+    id: {{owner.id}}
+</p>
+{% endfor %}
 {% endblock body %}
