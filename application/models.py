@@ -11,4 +11,4 @@ class Shoes(db.Model):
     shoe_name = db.Column(db.String(40), nullable=False)
     shoe_size = db.Column(db.Integer, nullable=False)
     shoe_colour = db.Column(db.String(20), nullable=False)
-    owner_id = db.Column(db.Integer, db.ForeignKey('owner.id'), nullable=False)
+    owner_id = db.Column(db.Integer, db.ForeignKey('owners.id'), nullable=False)
