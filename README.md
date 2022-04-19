@@ -68,6 +68,27 @@ For testing pytest was used and a coverage report was produced
 
 ![coverage](https://user-images.githubusercontent.com/71146682/164040802-a16a4255-560c-4423-8f21-e2585e245470.jpg)
 
+## Errors in application
+
+The erros in the application include:
+
+* Not being able to the two tables via the foreign key, I recieved an integrity error.
+
+## Improvements to be made
+
+* The ability to add a shoe and that interact with the owner table
+* Inclusion of Jenkin
+* UPDATE functionality.
+* A login system with hashing
+* the use of the HTTPS
+* More tables i.e a child table as some attributes have more than one value i.e colour.
+* To improve the front-end design use CSS and the boostrap templating.
+
+
+## Links to recordings
+
+
+
 
 
 
