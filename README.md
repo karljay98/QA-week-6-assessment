@@ -59,8 +59,14 @@ The purpose of this board is to track the project from start to end and document
   * These are all the tasks that have been completed
 
 ## Risk Assessment
-
+Risk assessment can be found here
 [RISK assessment.docx](https://github.com/karljay98/QA-week-6-assessment/files/8514314/RISK.assessment.docx)
+
+## Testing
+
+For testing pytest was used and a coverage report was produced
+
+
 
 
 
