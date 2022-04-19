@@ -60,6 +60,7 @@ The purpose of this board is to track the project from start to end and document
 
 ## Risk Assessment
 
+[RISK assessment.docx](https://github.com/karljay98/QA-week-6-assessment/files/8514314/RISK.assessment.docx)
 
 
 
