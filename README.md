@@ -43,6 +43,23 @@ The ERD above shows the relationship between owners and shoes. With the foreignk
 
 ## Project Tracking
 
+To track my progress a Trello Kanban board was used. The full board can be found here https://trello.com/invite/b/mD42Vby2/c08649c5bf7b29baba52c0f979b85d3f/owner
+
+The purpose of this board is to track the project from start to end and document all the decisions and requirements as the project progressed. Each card in the Kanban board is associated with a particular element of the project:
+
+* * User stories*
+  * These are the requirements but from the user perspective and structured by stating what the action is and who is performing the action.
+* * Project brief*
+  * This is a list of all the requirements needed to complete the brief specification and produce the minimal viable product.
+* * To be completed*
+  * This is a list of all the tasks which were not completed and may still be in th eplanning phase.
+* * In progress* 
+  * This card details what tasks and currently being worked on to produce the MVP.
+* * Done*
+  * These are all the tasks that have been completed
+
+## Risk Assessment
+
 
 
 
