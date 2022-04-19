@@ -47,15 +47,15 @@ To track my progress a Trello Kanban board was used. The full board can be found
 
 The purpose of this board is to track the project from start to end and document all the decisions and requirements as the project progressed. Each card in the Kanban board is associated with a particular element of the project:
 
-* * User stories*
+*  User stories
   * These are the requirements but from the user perspective and structured by stating what the action is and who is performing the action.
-* * Project brief*
+*  Project brief
   * This is a list of all the requirements needed to complete the brief specification and produce the minimal viable product.
-* * To be completed*
+*  To be completed
   * This is a list of all the tasks which were not completed and may still be in th eplanning phase.
-* * In progress* 
+*  In progress 
   * This card details what tasks and currently being worked on to produce the MVP.
-* * Done*
+*  Done
   * These are all the tasks that have been completed
 
 ## Risk Assessment
