@@ -66,6 +66,7 @@ Risk assessment can be found here
 
 For testing pytest was used and a coverage report was produced
 
+![coverage](https://user-images.githubusercontent.com/71146682/164040802-a16a4255-560c-4423-8f21-e2585e245470.jpg)
 
 
 
