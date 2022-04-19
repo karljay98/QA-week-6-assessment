@@ -33,7 +33,11 @@ To design an application that adhires to the brief I opted for a simple library-
  * * *last name*
  * * *description*
 
-* To satisy the 
+* To satisfy the Delete functionality of CRUD, a button was provided whereby an owner could delete their library.
+
+## Database Architecture
+
+
 
 
 
