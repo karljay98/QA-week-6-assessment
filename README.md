@@ -37,6 +37,7 @@ To design an application that adhires to the brief I opted for a simple library-
 
 ## Database Architecture
 
+![owner_erd_2](https://user-images.githubusercontent.com/71146682/164019482-877d3cc2-b864-4e11-ba48-ae56883845e6.jpg)
 
 
 
